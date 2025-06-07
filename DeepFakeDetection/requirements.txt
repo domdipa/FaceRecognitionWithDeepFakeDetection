@@ -1,0 +1,8 @@
+tf_keras
+python-multipart
+fastapi
+uvicorn
+deepface
+mediapipe
+openai
+scikit-learn
